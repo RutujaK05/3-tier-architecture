@@ -1,4 +1,4 @@
- **3-Tier Architecture in AWS**. It includes sections for project description, architecture diagram, AWS services used, setup instructions, and licensing.
+ **3-Tier Architecture in AWS**
 
 ---
 
