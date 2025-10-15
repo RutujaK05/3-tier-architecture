@@ -1,4 +1,4 @@
-Here's a complete `README.md` file you can use for your GitHub repository documenting a **3-Tier Architecture in AWS**. It includes sections for project description, architecture diagram, AWS services used, setup instructions, and licensing.
+ **3-Tier Architecture in AWS**. It includes sections for project description, architecture diagram, AWS services used, setup instructions, and licensing.
 
 ---
 
@@ -155,13 +155,3 @@ For questions or suggestions, open an [issue](https://github.com/your-username/y
 
 ---
 
-### ✅ Next Steps
-
-Would you like:
-
-* A **Terraform script** to deploy this 3-tier architecture?
-* A **real PNG diagram** to include in your repo?
-* Help adding this project to GitHub with the right structure?
-
-Let me know and I’ll help you build it out.
-g
